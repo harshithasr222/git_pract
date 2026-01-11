@@ -77,3 +77,19 @@ rm tset2.txt
 ls -lrt
 rm *
 ls -lrt
+ls -ltr
+mkdir git_pract
+ls -ltr
+ls -la
+git init
+ls -la
+touch data.txt
+git status
+git add .
+git status
+git commit -m "add files"
+git status
+ls-ltr
+ls -ltr
+cd git_pract
+ls -ltr
